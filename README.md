@@ -1,8 +1,16 @@
-<a href='https://ko-fi.com/rakkarage' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+# Hi, I'm David 👋
 
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=403681&layout=compact)](https://stackoverflow.com/users/403681/rakka-rage)
+Software engineer in Toronto. 20+ years of experience across enterprise software, developer tools, game systems, and open source.
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakkarage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[Resume](https://rakkarage.github.io/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkarage)](https://github.com/rakkarage)
+## Areas I work in
 
+- 🎮 **Game dev tools** for Unity (C#) and Godot (GDScript), sold and shared via [henrysoftware.itch.io](https://henrysoftware.itch.io)
+- 🧙 **World of Warcraft addons** in Lua/XML: 30K+ downloads on [CurseForge](https://www.curseforge.com/members/rakkarage/projects)
+- 🎨 **ComfyUI custom nodes** in Python: [ComfyRage](https://github.com/rakkarage/ComfyRage)
+- 🔧 **Godot engine contributor**: [10+ merged PRs](https://github.com/godotengine/godot/pulls?q=is%3Apr+is%3Amerged+author%3Arakkarage)
+
+## Tech
+
+`C#` `GDScript` `Python` `Lua` `C++` `Objective-C` `Unity` `Godot` `Git` `Docker`
