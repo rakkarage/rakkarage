@@ -2,7 +2,7 @@
 
 Software engineer in Toronto. 20+ years of experience across enterprise software, developer tools, game systems, and open source.
 
-[Resume](https://rakkarage.github.io/)
+**[📄 Resume](https://rakkarage.github.io/)**
 
 ## Areas I work in
 
@@ -13,4 +13,6 @@ Software engineer in Toronto. 20+ years of experience across enterprise software
 
 ## Tech
 
-`C#` `GDScript` `Python` `Lua` `C++` `Objective-C` `Unity` `Godot` `Git` `Docker`
+**Current:** `Python` `Lua` `GDScript` `C#` `C++`
+**Also:** `C` `Objective-C` `JavaScript` `SQL`
+**Tools:** `Unity` `Godot` `ComfyUI` `Docker` `Git`
