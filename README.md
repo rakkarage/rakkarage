@@ -1,15 +1,15 @@
 # Hi, I'm David 👋
 
-Software engineer in Toronto. 20+ years of experience across enterprise software, developer tools, game systems, and open source.
+Software engineer with 20+ years across enterprise software, developer tools, game systems, and open source.
 
-**[📄 Resume](https://rakkarage.github.io/)**
+**[📄 Resume](https://rakkarage.github.io/)** · [🎮 itch.io](https://henrysoftware.itch.io) · [🧙 CurseForge](https://www.curseforge.com/members/rakkarage/projects)
 
 ## Areas I work in
 
 - 🎮 **Game dev tools** for Unity (C#) and Godot (GDScript), sold and shared via [henrysoftware.itch.io](https://henrysoftware.itch.io)
 - 🧙 **World of Warcraft addons** in Lua/XML: 30K+ downloads on [CurseForge](https://www.curseforge.com/members/rakkarage/projects)
 - 🎨 **ComfyUI custom nodes** in Python: [ComfyRage](https://github.com/rakkarage/ComfyRage)
-- 🔧 **Godot engine contributor**: [10+ merged PRs](https://github.com/godotengine/godot/pulls?q=is%3Apr+is%3Amerged+author%3Arakkarage)
+- 🔧 **Godot engine contributor** (C++): [10+ merged PRs](https://github.com/godotengine/godot/pulls?q=is%3Apr+is%3Amerged+author%3Arakkarage)
 
 ## Tech
 
