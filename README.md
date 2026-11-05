@@ -2,7 +2,7 @@
 
 Software engineer with 20+ years across enterprise software, developer tools, game systems, and open source.
 
-**[📄 Resume](https://rakkarage.github.io/)** · [🎮 itch.io](https://henrysoftware.itch.io) · [🧙 CurseForge](https://www.curseforge.com/members/rakkarage/projects)
+**[📄 Resume](https://rakkarage.github.io/)**
 
 ## Areas I work in
 
