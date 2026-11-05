@@ -16,3 +16,6 @@ Software engineer with 20+ years across enterprise software, developer tools, ga
 **Current:** `Python` `Lua` `GDScript` `C#` `C++`
 **Also:** `C` `Objective-C` `JavaScript` `SQL`
 **Tools:** `Unity` `Godot` `ComfyUI` `Docker` `Git`
+
+![Flop.gif](Flop.gif)
+![Town.gif](Town.gif)
